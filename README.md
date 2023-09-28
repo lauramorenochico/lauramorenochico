@@ -24,4 +24,5 @@ He encontrado un sector en el que puedo dar salida a mi lado creativo y resoluti
           
   </a> </p>
 
-<p>Aquí podrás encontrar algunos de los trabajos que realicé durante mi bootcamp en Adalab, unos meses muy intensos que consiguieron sacar lo mejor de cada una de nosotras.</p>
+<p>Aquí podrás encontrar algunos de los trabajos que realicé durante mi bootcamp en Adalab, unos meses muy intensos que consiguieron sacar lo mejor de cada una de nosotras, y algunos otros que he ido realizando por mi cuenta</p>
+
